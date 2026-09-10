@@ -13,10 +13,9 @@
 
 ## 👋 Tentang Saya
 
-- 🎓 Saya seorang **pelajar/mahasiswa** yang lagi belajar pengembangan web.
-- 💻 Fokus belajar saat ini: **full-stack development** dengan Laravel & PHP.
-- 🌱 Lagi memperdalam **Laravel**, **MySQL**, dan best practice dalam membangun aplikasi web.
-- 🎮 Selain ngoding, saya suka game retro — salah satu favorit saya **Pac-Man**. Makanya profil ini juga punya animasi Pac-Man yang "memakan" kontribusi GitHub saya di bawah 👇
+- 🎓 Saya seorang pelajar yang lagi belajar pengembangan web.
+- 💻 Fokus belajar saat ini: full-stack development dengan Laravel & PHP.
+- 🌱 Lagi memperdalam Laravel, MySQL, dan best practice dalam membangun aplikasi web.
 - 📫 Butuh info lain tentang saya? Tanya aja lewat **Issues** di repo ini atau hubungi kontak di bawah.
 
 ## 🛠️ Tech Stack
