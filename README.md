@@ -38,7 +38,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lutzz-10&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
-## 👾 Pac-Man Contribution Graph
+## 👾 Contribution Graph
 
 <p align="center">
   <!-- pacman -->
@@ -48,17 +48,3 @@
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Lutzz-10/Lutzz-10/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
-## 🐍 Snake Commit History
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lutzz-10/Lutzz-10/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lutzz-10/Lutzz-10/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub snake animation" src="https://raw.githubusercontent.com/Lutzz-10/Lutzz-10/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-<p align="center">⭐ Terima kasih sudah mampir ke profil saya!</p>
